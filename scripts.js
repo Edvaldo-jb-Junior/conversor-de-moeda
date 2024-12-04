@@ -8,10 +8,10 @@ function convertValues(){
     const currencyValueToConvert = document.querySelector(".currency-value-to-convert")
     const currencyValueConvert = document.querySelector(".currency-value")
     
-    const dolarToday = 5.8
-    const euroToday = 6.2
-    const libraToday = 6
-    const wonsToday = 0.0045
+    const dolarToday = 6.06
+    const euroToday = 6.36
+    const libraToday = 7.68
+    const wonsToday = 0.0043
     const realToday = 1
 
 
